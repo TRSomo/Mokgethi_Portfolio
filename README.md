@@ -3,7 +3,7 @@ My data visualization projects
 
 # [Project 1: Machine learning using K-Nearest Neighbor (KNN)](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Prediction%20of%20diabetes%20using%20KNN.pdf)
 - In this project, I have built a machine learning model to predict diabetis status of patients (source: Kaggle)
-- The following tasks were performed: data profiling, data cleaning, data visualization, feature correlation and machine learning
+- The following tasks were performed: data profiling, data cleaning, data visualization, feature correlation and machine learning.
 
 # [Project 2: Machine learning using Linear regression, Decision Tree and Random Forest](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Gibbs%20free%20energy.pdf)
 - Herein, I have developed 3 predictive models based on Linear regression, Decision Tree and Random Forest
